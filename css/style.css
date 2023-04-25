@@ -1,0 +1,151 @@
+
+body{
+  color:#40514E;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+div{
+  background: #EAF9F5;
+
+}
+
+h1{
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF
+}
+.d{
+  text-decoration-line: underline;
+}
+
+.data{
+  color: #66BFBF;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+h2{
+  color: #0E8388;
+  padding-bottom: 5px
+}
+h3{
+  color: #66BFBF
+
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+
+}
+p{
+  line-height: 2;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left
+
+}
+.profile{
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+}
+
+.Dashboard{
+  max-width: 100%;
+  height: auto;
+  width: 40%;
+  float: right;
+  margin-right: 30px;
+
+}
+.final_{
+  max-width: 100%;
+  height: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.text{
+  max-width: 100%;
+  height: auto;
+  text-align: left;
+
+
+}
+.bottom-container{
+  max-width: 100%;
+  height: auto;
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+.datan{
+  max-width: 100%;
+  height: auto;
+  width: 40%;
+  float: left;
+  margin-right: 30px
+
+}
+a{
+  color: #11999E;
+  margin: 10px 10px
+}
+.footer_in{
+  width: 3.5%;
+  max-width: 100%;
+}
+.contact-me{
+  width: 40%;
+  margin: auto auto auto;
+
+}
+.btn{
+  width: 40%;
+  margin: 50px auto auto;
+
+}
+
+.btn {
+  font-size:30px;
+  font-family:Arial;
+  width:300px;
+  height:44px;
+  border-width:5px;
+  color:#fff;
+  border-color:#18ab29;
+  font-weight:bold;
+  border-top-left-radius:12px;
+  border-top-right-radius:12px;
+  border-bottom-left-radius:12px;
+  border-bottom-right-radius:12px;
+  text-shadow: 1px 1px 0px #2f6627;
+  background:rgba(17, 205, 212, 1);
+}
+
+.btn:hover {
+  background: linear-gradient(rgba(48, 227, 203, 1), rgba(17, 205, 212, 1));
+}
+
+
+
+
+.text{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.github{
+  width: 3.5%;
+  max-width: 100%;
+}
+.main_dash
+{
+  max-width: 100%;
+  height: auto;
+}
