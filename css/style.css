@@ -1,0 +1,167 @@
+
+body{
+  font-family: "Montserrat"
+}
+
+#title{
+  background-color: #F7F7F7;
+
+}
+.kev_intro{
+  text-align: center;
+  font-size: 2.5rem;
+}
+.kev_story{
+  text-align: center;
+  padding: 3% 15%;
+}
+.Download{
+  color: #FFF;
+  text-decoration: none;
+}
+.d_kev{
+  margin-left: 90%;
+  margin-top: 0;
+}
+#details{
+  text-align: center;
+  padding: 3% 15%;
+}
+.s_point{
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+}
+
+p{
+  color: #8F8F8F;
+}
+.container_fluid{
+  padding: 3% 15%;
+}
+
+.kev{
+  font-family: "Montserrat-Black";
+  font-size: 3.0rem;
+  line-height: 1;
+}
+.impr{
+  font-family: "Montserrat-Bold";
+  font-size: 2rem;
+  line-height: 1
+}
+.kevin{
+  text-align: center;
+  margin-bottom: 0
+}
+.kev_o{
+  text-decoration: none;
+  color:#000
+}
+
+/* Navigation bar */
+.navbar{
+  margin-bottom: 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 45px;
+  font-family: "Montserrat-Light";
+}
+
+
+/* Title image */
+.analys{
+  width: 100%;
+  right: 30%;
+}
+.ana_img{
+  width:10%;
+  margin: 20px;
+}
+.analysispic{
+  width:4%
+}
+.details{
+  text-align: center;
+}
+/* features section */
+
+#features{
+  text-align: center;
+  padding: 5%;
+}
+.p_img{
+  width: 10%;
+  margin-bottom: 1rem;
+}
+
+/* Testimonials */
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.carousel-item{
+  padding: 7% 18%;
+}
+
+/* Pricing section */
+
+#pricing{
+  padding: 100px;
+  text-align: center
+}
+.pricing_col{
+  padding: 3% 2%;
+
+}
+
+@media query(max-width: 1028px) {
+#title{
+  text-align: center
+}
+.kev{
+  font-size: 1rem;
+}
+}
+
+/* footer */
+#cta{
+  color: #FFF;
+  background-color: #ef8172;
+  padding: 7% 15%;
+}
+.ctadetails{
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  text-align: center
+}
+
+#footer{
+  padding: 2% 18%;
+
+}
+.fot_m{
+  width:20%;
+  margin-left: 50%;
+
+}
+.cop{
+  margin-top: 20px;
+  text-align: center;
+  width: 100%;
+
+}
+.check{
+  margin-bottom: 2%
+}
